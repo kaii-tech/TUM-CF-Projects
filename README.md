@@ -4,7 +4,7 @@ TUM - Computational Foundations Programs
 
 
 Example of the navigation:
-
+<pre>
 Excercises:
   |
   |------> Task_Sheet-01
@@ -15,6 +15,7 @@ Excercises:
   |            |
   |            |-------> WiSe2324_CF1_TaskSheet1.pdf     (Task Sheet 1 - PDF)
   |
+  |
   |------> Task_Sheet-02
                |
                |-------> etc
@@ -22,3 +23,4 @@ Excercises:
 Lecture:
   |
   |------>
+</pre>
