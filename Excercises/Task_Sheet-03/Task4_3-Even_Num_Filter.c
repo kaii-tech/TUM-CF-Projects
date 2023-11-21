@@ -8,7 +8,7 @@ int main() {
     for (int i = 0; i < 6; i++) {
         //Check if the Modulo (%) of the array element is = 0 (Even)
         if (Array[i] % 2 == 0)
-            //If True (evan): define 
+            //If True (evan):
             printf("%d ", Array[i]); //Print the value 
     }
 
