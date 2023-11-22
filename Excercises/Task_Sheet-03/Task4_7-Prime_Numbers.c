@@ -27,8 +27,8 @@ int main() {
                 }
             } 
         }
-        
 
+        // If no factors are found (number is Prime) then print it.
         if(factor == 0) {
             printf("%d ", Array[i]);
         }
