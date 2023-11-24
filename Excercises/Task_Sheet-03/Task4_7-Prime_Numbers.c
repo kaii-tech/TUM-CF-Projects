@@ -21,7 +21,7 @@ int main() {
                     //check if the Array element has the factor "divisor"; the mod of Array[i] and divisor should be = 0
                     if(Array[i] % divisor == 0) {
                         // Set prime to false (a factor has been found)
-                        factor = 0;
+                        prime = 0;
                     } 
                     divisor++; //increment the divisor
                 }
