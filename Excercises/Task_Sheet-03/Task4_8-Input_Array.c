@@ -4,7 +4,7 @@ int main() {
     //Initilize an integer array with 5 elements
     int Array[5];
 
-    printf("Enter an integer: ");
+    printf("Enter an Array with 5 integer elements: ");
     /* input Arry with 5 elements --- 
     "%d %d" is used for the input format, this signifies an integer then a space and then an integer. 
     the & symbol informs that the induvidual integer (%d) where to be stored, for each %d respectivly. */
