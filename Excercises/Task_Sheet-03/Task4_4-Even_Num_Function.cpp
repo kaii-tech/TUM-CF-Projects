@@ -27,4 +27,6 @@ int main() {
             printf("%d ", Array[i]); //Print the value
         } 
     }
+
+    return 0;
 }

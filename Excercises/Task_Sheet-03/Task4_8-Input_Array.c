@@ -12,4 +12,6 @@ int main() {
 
     //Print the array
     printf("%d %d %d %d %d\n", Array[0], Array[1], Array[2], Array[3], Array[4]);
+    
+    return 0;
 }

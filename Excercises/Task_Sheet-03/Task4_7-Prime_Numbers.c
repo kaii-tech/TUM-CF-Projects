@@ -33,5 +33,5 @@ int main() {
             printf("%d ", Array[i]);
         }
     }
-
+    return 0;
 }
